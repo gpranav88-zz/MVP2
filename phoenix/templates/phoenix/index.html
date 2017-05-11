@@ -26,12 +26,18 @@
                                 <td>{{rule.name}}</td>
                                 <td class="services-list">{{rule.services}}</td>
                                 <td class="attributes-list">{{rule.attributes}}</td>
-                                <td><a href="#" data-id="{{rule.id}}">Crunch Data</a></td>
+                                <td><a href="#" data-id="{{rule.id}}" class="crunch-trigger">Crunch Data</a></td>
                             </tr>
                         {% endfor %}
                     {% endif %}
                 </tbody>
             </table>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-xs-12">
+            <img id="loading-image" src="static/phoenix/loading.gif" alt="Loading..."/>
+            <img id="target" src="" />
         </div>
     </div>
 
