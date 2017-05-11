@@ -10,5 +10,5 @@ class Rule(models.Model):
 
 class Trigger(models.Model):
     signal_id = models.ForeignKey(Signal, on_delete=models.CASCADE)
-    rules = models.TextField(max_length=50)
+    rules = models.CharField(max_length=50)
     threshold_level = models.CharField(max_length=50)
