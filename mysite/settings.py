@@ -25,12 +25,15 @@ SECRET_KEY = '2vs&2k(1)x32+t)#zbl33+wnq)l8x#ns%gr6e&^#zp&qmo7jzd'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+    '127.0.0.1'
+]
 
 
 # Application definition
 
 INSTALLED_APPS = [
+    'bootstrap3',
     'phoenix',
     'django.contrib.admin',
     'django.contrib.auth',
@@ -118,4 +121,10 @@ USE_TZ = True
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/1.11/howto/static-files/
 
-STATIC_URL = '/static/'
+STATIC_URL = 'phoenix/static/'
+
+STATIC_ROOT = '/tmp/static/'
+
+STATICFILES_DIRS = [
+    os.path.join(BASE_DIR, "static")
+]

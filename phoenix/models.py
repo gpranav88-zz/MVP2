@@ -1,4 +1,5 @@
 from django.db import models
+from multiselectfield import MultiSelectField
 
 
 class Action(models.Model):
@@ -24,7 +25,7 @@ class Rule(models.Model):
     )
     name = models.CharField(max_length=50, default="None")
     services = models.CharField(max_length=10, default='identity', choices=SERVICES_CHOICES)
-    attributes = models.CharField(max_length=10, default='email', choices=ATTRIBUTES_CHOICES)
+    attributes = MultiSelectField(default='email', choices=ATTRIBUTES_CHOICES)
 
     def __str__(self):
         return self.name

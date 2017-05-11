@@ -1,0 +1,4821 @@
+{
+  "projectName": "users csv",
+  "columnName": "Clustered",
+  "timeStamp": "2017-05-11T11:10:41.782Z",
+  "clusterMethod": "binning",
+  "keyingFunction": "fingerprint",
+  "clusters": [
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "n.a.v.e.enojha2@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "n.a.v.ee.nojha2@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "n.a.v.een.ojha2@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "n.a.v.eeno.jha2@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "n.a.v.eenoj.ha2@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "n.a.v.eenojh.a2@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "n.a.v.eenojha.2@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "n.a.v.eenojha2@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "n.a.ve.e.nojha2@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "n.a.ve.en.ojha2@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "n.a.ve.eno.jha2@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "n.a.ve.enoj.ha2@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "n.a.ve.enojh.a2@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "n.a.ve.enojha.2@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "n.a.ve.enojha2@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "n.a.vee.n.ojha2@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "n.a.vee.no.jha2@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "n.a.vee.noj.ha2@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "n.a.vee.nojh.a2@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "n.a.vee.nojha.2@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "n.a.vee.nojha2@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "n.a.veen.o.jha2@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "n.a.veen.oj.ha2@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "n.a.veen.ojha2@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "n.a.veeno.jha2@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "n.a.veenoj.ha2@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "n.a.veenojh.a2@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "n.a.veenojha.2@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "n.a.veenojha2@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "n.av.eenojha2@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "n.ave.enojha2@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "n.avee.nojha2@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "n.aveen.ojha2@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "n.aveeno.jha2@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "n.aveenoj.ha2@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "n.aveenojh.a2@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "n.aveenojha.2@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "n.aveenojha2@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "na.veenojha2@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "nav.eenojha2@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "nave.enojha2@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "navee.nojha2@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "naveen.ojha2@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "naveeno.jha2@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "naveenoj.ha2@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "naveenojh.a2@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "naveenojha.2@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "naveenojha2@gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "n.a.v.e.enojha2@gmail.com",
+      "size": 48,
+      "rowCount": 48,
+      "avg": 23.75,
+      "variance": 1.25
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "n.a.v.0.132@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "n.a.v.01.32@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "n.a.v.013.2@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "n.a.v.0132@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "n.a.v0.1.32@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "n.a.v0.132@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "n.a.v01.3.2@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "n.a.v01.32@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "n.a.v013.2@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "n.a.v0132@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "n.av.0132@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "n.av0.132@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "n.av01.32@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "n.av013.2@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "na.v.0.1.32@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "na.v.0132@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "na.v0.1.32@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "na.v0.13.2@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "na.v0.132@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "na.v01.32@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "na.v013.2@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "na.v0132@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "nav.0.132@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "nav.01.32@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "nav.013.2@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "nav.0132@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "nav0.1.32@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "nav0.13.2@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "nav0.132@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "nav01.3.2@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "nav01.32@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "nav013.2@gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "n.a.v.0.132@gmail.com",
+      "size": 32,
+      "rowCount": 32,
+      "avg": 19.40625,
+      "variance": 0.9636964965693297
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "n.ishant.keswani.1987@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "ni.s.hant.k.eswani.1987@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "nishant.keswani.1.9.8.7@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "nishant.keswani.198.7@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "nishant.keswani.1987@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "nishant.keswani1987@gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "n.ishant.keswani.1987@gmail.com",
+      "size": 6,
+      "rowCount": 6,
+      "avg": 31.166666666666668,
+      "variance": 1.4624940645653235
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "d.eepakgoyal026@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "de.epakgoyal026@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "dee.pakgoyal026@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "deepakgoyal.026@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "deepakgoyal026@gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "d.eepakgoyal026@gmail.com",
+      "size": 5,
+      "rowCount": 5,
+      "avg": 24.8,
+      "variance": 0.3999999999999602
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "v.ijayendrabittu@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "vi.jayendrabi.ttu@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "vi.jayendrabittu@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "vij.ayendrabittu@gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "v.ijayendrabittu@gmail.com",
+      "size": 4,
+      "rowCount": 4,
+      "avg": 26.25,
+      "variance": 0.4330127018922193
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "f.reecharge17@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "free.charge17@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "freecharge.17@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "freecharge17@gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "f.reecharge17@gmail.com",
+      "size": 4,
+      "rowCount": 4,
+      "avg": 22.75,
+      "variance": 0.4330127018922193
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "san.t.oshgupta1869@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "san.toshgupta1869@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "sant.oshgupta1869@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "santoshgupta.1869@gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "san.t.oshgupta1869@gmail.com",
+      "size": 4,
+      "rowCount": 4,
+      "avg": 27.25,
+      "variance": 0.4330127018922193
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "k.aran1000@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "ka.ran1000@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "karan.1000@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "karan1.000@gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "k.aran1000@gmail.com",
+      "size": 4,
+      "rowCount": 4,
+      "avg": 20,
+      "variance": 0
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "ank.urhbk@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "anku.rhbk@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "ankur.hbk@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "ankurhbk@gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "ank.urhbk@gmail.com",
+      "size": 4,
+      "rowCount": 4,
+      "avg": 18.75,
+      "variance": 0.4330127018922193
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "vishnu.gopal.singhal.27@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "vishnu.gopalsinghal.27@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "vishnugopalsingha.l27@gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "vishnu.gopal.singhal.27@gmail.com",
+      "size": 3,
+      "rowCount": 3,
+      "avg": 32,
+      "variance": 0.8164965809277724
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "v.nykmr77@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "vny.kmr77@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "vnykmr77@gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "v.nykmr77@gmail.com",
+      "size": 3,
+      "rowCount": 3,
+      "avg": 18.666666666666668,
+      "variance": 0.4714045207909781
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "d.eepaksingh85000@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "deepaksin.gh85000@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "deepaksingh850.00@gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "d.eepaksingh85000@gmail.com",
+      "size": 3,
+      "rowCount": 3,
+      "avg": 27,
+      "variance": 0
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "rahul.12987@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "rahul1.2987@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "rahul1298.7@gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "rahul.12987@gmail.com",
+      "size": 3,
+      "rowCount": 3,
+      "avg": 21,
+      "variance": 0
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "vi.shalarora38944@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "vishal.arora.38944@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "vishala.rora38944@gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "vi.shalarora38944@gmail.com",
+      "size": 3,
+      "rowCount": 3,
+      "avg": 27.333333333333332,
+      "variance": 0.4714045207910987
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "a.pril24415@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "ap.ril24415@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "april24415@gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "a.pril24415@gmail.com",
+      "size": 3,
+      "rowCount": 3,
+      "avg": 20.666666666666668,
+      "variance": 0.4714045207909781
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "satish.k.nayyar@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "satish.knayyar@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "satishknayyar@gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "satish.k.nayyar@gmail.com",
+      "size": 3,
+      "rowCount": 3,
+      "avg": 24,
+      "variance": 0.8164965809277028
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "p.awan03199855@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "paw.an03199855@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "pawan031998.55@gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "p.awan03199855@gmail.com",
+      "size": 3,
+      "rowCount": 3,
+      "avg": 24,
+      "variance": 0
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "mart.in.church.il@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "mart.in.churchil@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "martinchurchil@gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "mart.in.church.il@gmail.com",
+      "size": 3,
+      "rowCount": 3,
+      "avg": 25.666666666666668,
+      "variance": 1.2472191289246422
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "p.k593533@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "pk5.93533@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "pk593.533@gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "p.k593533@gmail.com",
+      "size": 3,
+      "rowCount": 3,
+      "avg": 19,
+      "variance": 0
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "sa.nnychaudhary@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "san.nychaudhary@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "sann.ychaudhary@gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "sa.nnychaudhary@gmail.com",
+      "size": 3,
+      "rowCount": 3,
+      "avg": 25,
+      "variance": 0
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "seem.a.sendmail@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "seema.s.endmail@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "seema.sendmail@gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "seem.a.sendmail@gmail.com",
+      "size": 3,
+      "rowCount": 3,
+      "avg": 24.666666666666668,
+      "variance": 0.4714045207909781
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "praveen.chalikani@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "praveenchalikani@gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "praveen.chalikani@gmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 26.5,
+      "variance": 0.5
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "c_shekhar24@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "cshekhar24@gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "c_shekhar24@gmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 20.5,
+      "variance": 0.5
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "umang.buddy@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "umang_buddy@gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "umang.buddy@gmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 21,
+      "variance": 0
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "aanurag.maloo@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "aanuragmaloo@gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "aanurag.maloo@gmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 22.5,
+      "variance": 0.5
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "ha.1234ha65@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "ha1234.ha65@gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "ha.1234ha65@gmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 21,
+      "variance": 0
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "sumankumarthakur48@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "sumankumarthakur@48gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "sumankumarthakur48@gmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 28,
+      "variance": 0
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "adityagaur.17@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "adityagaur17@gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "adityagaur.17@gmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 22.5,
+      "variance": 0.5
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "manan.singla78@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "manansingla.78@gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "manan.singla78@gmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 24,
+      "variance": 0
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "taran.kaur0106@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "tarankaur0106@gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "taran.kaur0106@gmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 23.5,
+      "variance": 0.5
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "dr.shahzadhussain82@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "drshahzadhussain82@gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "dr.shahzadhussain82@gmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 28.5,
+      "variance": 0.5
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "kumar.sujit@hotmail.com",
+          "c": 1
+        },
+        {
+          "v": "kumar_sujit@hotmail.com",
+          "c": 1
+        }
+      ],
+      "value": "kumar.sujit@hotmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 23,
+      "variance": 0
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "jayant.7789@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "jayant77.89@gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "jayant.7789@gmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 21,
+      "variance": 0
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "saeedzafar46@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "saeedzafar@46gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "saeedzafar46@gmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 22,
+      "variance": 0
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "krishangarhwal30@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "krishangarhwal@30gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "krishangarhwal30@gmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 26,
+      "variance": 0
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "kv.shamsudheen@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "kvshamsudheen@gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "kv.shamsudheen@gmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 23.5,
+      "variance": 0.5
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "pushpendranayakg714166@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "pushpendranayakg@714166gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "pushpendranayakg714166@gmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 32,
+      "variance": 0
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "rockyror.1761@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "rockyror1761@gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "rockyror.1761@gmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 22.5,
+      "variance": 0.5
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "??ashwani.singh@olx.com",
+          "c": 1
+        },
+        {
+          "v": "ashwani.singh@olx.com",
+          "c": 1
+        }
+      ],
+      "value": "??ashwani.singh@olx.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 22,
+      "variance": 1
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "mayur.chavan@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "mayurchavan@gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "mayur.chavan@gmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 21.5,
+      "variance": 0.5
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "olekar76@gimel.in.com",
+          "c": 1
+        },
+        {
+          "v": "olekar76@gimelin.com",
+          "c": 1
+        }
+      ],
+      "value": "olekar76@gimel.in.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 20.5,
+      "variance": 0.5
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "me.mberjain009@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "memberjain0.09@gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "me.mberjain009@gmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 24,
+      "variance": 0
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "ravindra23@rediffmail.com",
+          "c": 1
+        },
+        {
+          "v": "ravindra_23@rediffmail.com",
+          "c": 1
+        }
+      ],
+      "value": "ravindra23@rediffmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 25.5,
+      "variance": 0.5
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "mohd.874@digimail.in",
+          "c": 1
+        },
+        {
+          "v": "mohd874@digimail.in",
+          "c": 1
+        }
+      ],
+      "value": "mohd.874@digimail.in",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 19.5,
+      "variance": 0.5
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "v.gvishalgoyal106@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "vg.vishalgoyal106@gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "v.gvishalgoyal106@gmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 27,
+      "variance": 0
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "drumeshjyoti2016@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "drumeshjyoti@2016gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "drumeshjyoti2016@gmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 26,
+      "variance": 0
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "sanjeev123-@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "sanjeev123@gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "sanjeev123-@gmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 20.5,
+      "variance": 0.5
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "radha.sai82@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "radhasai.82@gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "radha.sai82@gmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 21,
+      "variance": 0
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "shekhimu.7.86@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "shekhimu.786@gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "shekhimu.7.86@gmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 22.5,
+      "variance": 0.5
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "ankur.00007@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "ankur00007@gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "ankur.00007@gmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 20.5,
+      "variance": 0.5
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "shivam.mehrotra@olx.com",
+          "c": 1
+        },
+        {
+          "v": "shivam?.mehrotra@olx.com",
+          "c": 1
+        }
+      ],
+      "value": "shivam.mehrotra@olx.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 23.5,
+      "variance": 0.5
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "sivasaifin.ylm@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "sivasaifinylm@gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "sivasaifin.ylm@gmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 23.5,
+      "variance": 0.5
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "robin.kwatra@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "robinkwatra@gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "robin.kwatra@gmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 21.5,
+      "variance": 0.5
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "g.nagaraj4u@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "gnagaraj4u@gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "g.nagaraj4u@gmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 20.5,
+      "variance": 0.5
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "charitra.choudhary@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "charitrachoudhary@gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "charitra.choudhary@gmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 27.5,
+      "variance": 0.5
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "vijay.kalikate@rediffmail.com",
+          "c": 1
+        },
+        {
+          "v": "vijaykalikate@rediffmail.com",
+          "c": 1
+        }
+      ],
+      "value": "vijay.kalikate@rediffmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 28.5,
+      "variance": 0.5
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "dr.mosajid.2012@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "dr.mosajid2012@gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "dr.mosajid.2012@gmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 24.5,
+      "variance": 0.5
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "sunil_grover@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "sunilgrover@gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "sunil_grover@gmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 21.5,
+      "variance": 0.5
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "drbsharma24@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "drbsharma@24gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "drbsharma24@gmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 21,
+      "variance": 0
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "r7036844094@g.mail.com",
+          "c": 1
+        },
+        {
+          "v": "r7036844094@gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "r7036844094@g.mail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 21.5,
+      "variance": 0.5
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "shivurenu33@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "shivurenu@33gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "shivurenu33@gmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 21,
+      "variance": 0
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "bretlee.7862000@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "bretlee7862000@gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "bretlee.7862000@gmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 24.5,
+      "variance": 0.5
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "uniqueshravan01@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "uniqueshravan@01gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "uniqueshravan01@gmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 25,
+      "variance": 0
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "khabiyalavesh+11@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "khabiyalavesh11@gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "khabiyalavesh+11@gmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 25.5,
+      "variance": 0.5
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "hitesh.lulla62@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "hiteshlulla.62@gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "hitesh.lulla62@gmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 24,
+      "variance": 0
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "pushpendra_npil@hotmail.com",
+          "c": 1
+        },
+        {
+          "v": "pushpendranpil@hotmail.com",
+          "c": 1
+        }
+      ],
+      "value": "pushpendra_npil@hotmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 26.5,
+      "variance": 0.5
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "simisimi.773722@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "simisimi773722@gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "simisimi.773722@gmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 24.5,
+      "variance": 0.5
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "manirulhaq87@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "manirulhaq@87gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "manirulhaq87@gmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 22,
+      "variance": 0
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "himanshu.monu88@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "himanshumonu.88@gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "himanshu.monu88@gmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 25,
+      "variance": 0
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "loveleshkumar2000@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "loveleshkumar@2000gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "loveleshkumar2000@gmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 27,
+      "variance": 0
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "raj.nijhawan@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "rajnijhawan@gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "raj.nijhawan@gmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 21.5,
+      "variance": 0.5
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "harishankar@chapagmail.com",
+          "c": 1
+        },
+        {
+          "v": "harishankarchapa@gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "harishankar@chapagmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 26,
+      "variance": 0
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "dayanandnimboria@g.mail.com",
+          "c": 1
+        },
+        {
+          "v": "dayanandnimboria@gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "dayanandnimboria@g.mail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 26.5,
+      "variance": 0.5
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "thinkingfo.ruonly@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "thinkingfor.u.only@gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "thinkingfo.ruonly@gmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 27.5,
+      "variance": 0.5
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "palash.jn5@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "palashjn5@gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "palash.jn5@gmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 19.5,
+      "variance": 0.5
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "arora.yatin1@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "arorayatin1@gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "arora.yatin1@gmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 21.5,
+      "variance": 0.5
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "rakesh.pramanik998@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "rakeshpramanik998@gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "rakesh.pramanik998@gmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 27.5,
+      "variance": 0.5
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "ckt.clive090@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "cktclive090@gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "ckt.clive090@gmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 21.5,
+      "variance": 0.5
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "medipoint.rtm@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "medipointrtm@gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "medipoint.rtm@gmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 22.5,
+      "variance": 0.5
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "mridul.bammi@icloud.com",
+          "c": 1
+        },
+        {
+          "v": "mridulbammi@icloud.com",
+          "c": 1
+        }
+      ],
+      "value": "mridul.bammi@icloud.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 22.5,
+      "variance": 0.5
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "sanjeevan.chauhan@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "sanjeevanchauhan@gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "sanjeevan.chauhan@gmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 26.5,
+      "variance": 0.5
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "nitinkaushik.4444@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "nitinkaushik4444@gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "nitinkaushik.4444@gmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 26.5,
+      "variance": 0.5
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "khabiyalavesh+3@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "khabiyalavesh3@gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "khabiyalavesh+3@gmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 24.5,
+      "variance": 0.5
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "rakesh1997@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "rakesh@1997gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "rakesh1997@gmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 20,
+      "variance": 0
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "n.avojha@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "navojha@gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "n.avojha@gmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 17.5,
+      "variance": 0.5
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "pawan.mulchandani@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "pawanmulchandani@gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "pawan.mulchandani@gmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 26.5,
+      "variance": 0.5
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "sidharth.madaan@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "sidharthmadaan@gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "sidharth.madaan@gmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 24.5,
+      "variance": 0.5
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "rajni.gupta.73@yahoo.com",
+          "c": 1
+        },
+        {
+          "v": "rajni.gupta73@yahoo.com",
+          "c": 1
+        }
+      ],
+      "value": "rajni.gupta.73@yahoo.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 23.5,
+      "variance": 0.5
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "balipatel786@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "balipatel@786gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "balipatel786@gmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 22,
+      "variance": 0
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "rakshakhabiya07@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "rakshakhabiya_07@gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "rakshakhabiya07@gmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 25.5,
+      "variance": 0.5
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "veena.gk7@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "veenagk7@gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "veena.gk7@gmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 18.5,
+      "variance": 0.5
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "junaid.kasmane333@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "junaidkasmane333@gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "junaid.kasmane333@gmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 26.5,
+      "variance": 0.5
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "pradip.hatkar@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "pradiphatkar@gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "pradip.hatkar@gmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 22.5,
+      "variance": 0.5
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "shamal-tulaskar@rediffmail.com",
+          "c": 1
+        },
+        {
+          "v": "shamal_tulaskar@rediffmail.com",
+          "c": 1
+        }
+      ],
+      "value": "shamal-tulaskar@rediffmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 30,
+      "variance": 0
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "prem.india871215@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "premindia.871215@gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "prem.india871215@gmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 26,
+      "variance": 0
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "debad2812@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "debad@2812gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "debad2812@gmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 19,
+      "variance": 0
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "arun.reddy@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "arunreddy@gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "arun.reddy@gmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 19.5,
+      "variance": 0.5
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "devidonadg@g.mail.com",
+          "c": 1
+        },
+        {
+          "v": "devidonadg@gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "devidonadg@g.mail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 20.5,
+      "variance": 0.5
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "jainspundan91@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "jainspundan@91gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "jainspundan91@gmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 23,
+      "variance": 0
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "srk.gyl@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "srkgyl@gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "srk.gyl@gmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 16.5,
+      "variance": 0.5
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "durgeshk1972@yahoo.com",
+          "c": 1
+        },
+        {
+          "v": "durgeshk1972@yahoo.com ",
+          "c": 1
+        }
+      ],
+      "value": "durgeshk1972@yahoo.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 22.5,
+      "variance": 0.5
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "vinay.yelavarthi@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "vinayyelavarthi@gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "vinay.yelavarthi@gmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 25.5,
+      "variance": 0.5
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "ayush_shukla@aol.com",
+          "c": 1
+        },
+        {
+          "v": "ayushshukla@aol.com",
+          "c": 1
+        }
+      ],
+      "value": "ayush_shukla@aol.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 19.5,
+      "variance": 0.5
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "masudahamed42@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "masudahamed@42gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "masudahamed42@gmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 23,
+      "variance": 0
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "sag.ar051997@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "sagar0519.97@gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "sag.ar051997@gmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 22,
+      "variance": 0
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "avinash.gouripaga@yahoo.com",
+          "c": 1
+        },
+        {
+          "v": "avinash_gouripaga@yahoo.com",
+          "c": 1
+        }
+      ],
+      "value": "avinash.gouripaga@yahoo.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 27,
+      "variance": 0
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "rajganesh.ch83@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "rajganeshch83@gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "rajganesh.ch83@gmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 23.5,
+      "variance": 0.5
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "geeta.palia9212@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "geetapalia9212@gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "geeta.palia9212@gmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 24.5,
+      "variance": 0.5
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "anjana.gupta.mail@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "anjana.guptamail@gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "anjana.gupta.mail@gmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 26.5,
+      "variance": 0.5
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "shruti.gupta563@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "shrutigupta563@gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "shruti.gupta563@gmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 24.5,
+      "variance": 0.5
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "pramod.balla007@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "pramodballa007@gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "pramod.balla007@gmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 24.5,
+      "variance": 0.5
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "sluice_ks@yahoo.co.in",
+          "c": 1
+        },
+        {
+          "v": "sluice_ks@yahooco.in",
+          "c": 1
+        }
+      ],
+      "value": "sluice_ks@yahoo.co.in",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 20.5,
+      "variance": 0.5
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "naresh.gupta@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "nareshgupta@gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "naresh.gupta@gmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 21.5,
+      "variance": 0.5
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "r.j.saxena50@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "r.jsaxena50@gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "r.j.saxena50@gmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 21.5,
+      "variance": 0.5
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "dineshsharma.dk83@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "dineshsharmadk83@gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "dineshsharma.dk83@gmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 26.5,
+      "variance": 0.5
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "karthik.reddy@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "karthikreddy@gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "karthik.reddy@gmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 22.5,
+      "variance": 0.5
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "shravani.ammu.0512@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "shravani.ammu0512@gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "shravani.ammu.0512@gmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 27.5,
+      "variance": 0.5
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "ravina.main10@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "ravinamain10@gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "ravina.main10@gmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 22.5,
+      "variance": 0.5
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "tej.sharma.ts@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "tejsharma.ts@gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "tej.sharma.ts@gmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 22.5,
+      "variance": 0.5
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "sureshmishra0141@g.mail.com",
+          "c": 1
+        },
+        {
+          "v": "sureshmishra0141@gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "sureshmishra0141@g.mail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 26.5,
+      "variance": 0.5
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "nakhaterajshree.143@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "nakhaterajshree143@gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "nakhaterajshree.143@gmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 28.5,
+      "variance": 0.5
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "vnykmr77.7@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "vnykmr777@gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "vnykmr77.7@gmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 19.5,
+      "variance": 0.5
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "nikamraju0@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "nikamraju@0gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "nikamraju0@gmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 20,
+      "variance": 0
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "paul.praneshpaul@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "paulpranesh.paul@gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "paul.praneshpaul@gmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 26,
+      "variance": 0
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "ashawini.utekar@concentrix.com",
+          "c": 1
+        },
+        {
+          "v": "ashawiniutekar@concentrix.com",
+          "c": 1
+        }
+      ],
+      "value": "ashawini.utekar@concentrix.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 29.5,
+      "variance": 0.5
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "sagarmedical18@g.mail.com",
+          "c": 1
+        },
+        {
+          "v": "sagarmedical18@gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "sagarmedical18@g.mail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 24.5,
+      "variance": 0.5
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "subhash123@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "subhash@123gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "subhash123@gmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 20,
+      "variance": 0
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "mudit.gupta1104@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "muditgupta1104@gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "mudit.gupta1104@gmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 24.5,
+      "variance": 0.5
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "kandukuri.prabha65@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "kandukuriprabha65@gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "kandukuri.prabha65@gmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 27.5,
+      "variance": 0.5
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "meeravarshney.14@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "meeravarshney14@gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "meeravarshney.14@gmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 25.5,
+      "variance": 0.5
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "sfaridkhanm@g-mail.com",
+          "c": 1
+        },
+        {
+          "v": "sfaridkhanm@gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "sfaridkhanm@g-mail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 21.5,
+      "variance": 0.5
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "deepak.jmi04@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "deepakjmi04@gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "deepak.jmi04@gmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 21.5,
+      "variance": 0.5
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "rahul.master.sahu@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "rahulmaster.sahu@gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "rahul.master.sahu@gmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 26.5,
+      "variance": 0.5
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "n.nave.en2014@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "n.naveen2014@gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "n.nave.en2014@gmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 22.5,
+      "variance": 0.5
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "www.amolbhalsing92@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "wwwamolbhalsing92@gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "www.amolbhalsing92@gmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 27.5,
+      "variance": 0.5
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "r.nthummar95@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "r.nthummar@95gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "r.nthummar95@gmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 22,
+      "variance": 0
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "ajay.garg.909@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "ajay.garg909@gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "ajay.garg.909@gmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 22.5,
+      "variance": 0.5
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "darshit.sheth@vivaantravels.com",
+          "c": 1
+        },
+        {
+          "v": "darshitsheth@vivaantravels.com",
+          "c": 1
+        }
+      ],
+      "value": "darshit.sheth@vivaantravels.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 30.5,
+      "variance": 0.5
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "shahjayesh.204@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "shahjayesh204@gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "shahjayesh.204@gmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 23.5,
+      "variance": 0.5
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "raj_kr_jain@hotmail.com",
+          "c": 1
+        },
+        {
+          "v": "rajkrjain@hotmail.com",
+          "c": 1
+        }
+      ],
+      "value": "raj_kr_jain@hotmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 22,
+      "variance": 1
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "j.a.tinmadaan757@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "jatinm.adaan757@gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "j.a.tinmadaan757@gmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 25.5,
+      "variance": 0.5
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "varunpulkit.steel@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "varunpulkitsteel@gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "varunpulkit.steel@gmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 26.5,
+      "variance": 0.5
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "saimohan-maddula@yahoo.co.in",
+          "c": 1
+        },
+        {
+          "v": "saimohan_maddula@yahoo.co.in",
+          "c": 1
+        }
+      ],
+      "value": "saimohan-maddula@yahoo.co.in",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 28,
+      "variance": 0
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "a.nshuagg@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "an.shuagg@gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "a.nshuagg@gmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 19,
+      "variance": 0
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "vikasdahiya6776@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "vikasdahiya@6776gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "vikasdahiya6776@gmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 25,
+      "variance": 0
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "sayyad.aamir86@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "sayyadaamir86@gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "sayyad.aamir86@gmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 23.5,
+      "variance": 0.5
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "arora.karan.82@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "arora.karan82@gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "arora.karan.82@gmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 23.5,
+      "variance": 0.5
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "rajendran.thangamani1957@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "rajendranthangamani1957@gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "rajendran.thangamani1957@gmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 33.5,
+      "variance": 0.5
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "bapangoswami72@gemil.com",
+          "c": 1
+        },
+        {
+          "v": "bapangoswami@72gemil.com",
+          "c": 1
+        }
+      ],
+      "value": "bapangoswami72@gemil.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 24,
+      "variance": 0
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "akshat.aksh.prakash.98@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "akshat.aksh.prakash98@gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "akshat.aksh.prakash.98@gmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 31.5,
+      "variance": 0.5
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "s.hikhi2cool@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "shikhi.2cool@gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "s.hikhi2cool@gmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 22,
+      "variance": 0
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "husain.kalawadwala@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "husainkalawadwala@gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "husain.kalawadwala@gmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 27.5,
+      "variance": 0.5
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "p.kumarsunil84@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "pkumar.sunil84@gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "p.kumarsunil84@gmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 24,
+      "variance": 0
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "rajganesh.ch@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "rajganeshch@gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "rajganesh.ch@gmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 21.5,
+      "variance": 0.5
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "k_j_shah@hotmail.com",
+          "c": 1
+        },
+        {
+          "v": "k_jshah@hotmail.com",
+          "c": 1
+        }
+      ],
+      "value": "k_j_shah@hotmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 19.5,
+      "variance": 0.5
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "siddarth.shah@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "siddarthshah@gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "siddarth.shah@gmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 22.5,
+      "variance": 0.5
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "sonia.rayat122@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "soniarayat122@gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "sonia.rayat122@gmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 23.5,
+      "variance": 0.5
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "as_harani@rediffmail.com",
+          "c": 1
+        },
+        {
+          "v": "asha_rani@rediffmail.com",
+          "c": 1
+        }
+      ],
+      "value": "as_harani@rediffmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 24,
+      "variance": 0
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "b.v.s.n.kirankumar@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "bvsnkirankumar@gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "b.v.s.n.kirankumar@gmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 26,
+      "variance": 2
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "dr.chhalotre.dc@g.mail.com",
+          "c": 1
+        },
+        {
+          "v": "dr.chhalotre.dc@gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "dr.chhalotre.dc@g.mail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 25.5,
+      "variance": 0.5
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "ganeshdhanariya38@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "ganeshdhanariya@38gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "ganeshdhanariya38@gmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 27,
+      "variance": 0
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "r.p5146666@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "rp5146666@gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "r.p5146666@gmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 19.5,
+      "variance": 0.5
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "sonubouck59@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "sonubouck@59gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "sonubouck59@gmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 21,
+      "variance": 0
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "shaikh.sahil12.ss@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "shaikhsahil12.ss@gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "shaikh.sahil12.ss@gmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 26.5,
+      "variance": 0.5
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "rajeev.15031985@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "rajeev15031985@gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "rajeev.15031985@gmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 24.5,
+      "variance": 0.5
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "muralinarayanasamy26@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "muralinarayanasamy@26gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "muralinarayanasamy26@gmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 30,
+      "variance": 0
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "r.aj.232204@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "raj.232.204@gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "r.aj.232204@gmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 21,
+      "variance": 0
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "rohitupadhyay713@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "rohitupadhyay@713gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "rohitupadhyay713@gmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 26,
+      "variance": 0
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "tapas.sharma@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "tapassharma@gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "tapas.sharma@gmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 21.5,
+      "variance": 0.5
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "ghanshyamv.16@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "ghanshyamv1.6@gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "ghanshyamv.16@gmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 23,
+      "variance": 0
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "rk.rahul@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "rkrahul@gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "rk.rahul@gmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 17.5,
+      "variance": 0.5
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "pankaj_pathak_01@yahoo.com",
+          "c": 1
+        },
+        {
+          "v": "pankajpathak01@yahoo.com",
+          "c": 1
+        }
+      ],
+      "value": "pankaj_pathak_01@yahoo.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 25,
+      "variance": 1
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "subhashdhaka24@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "subhashdhaka@24gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "subhashdhaka24@gmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 24,
+      "variance": 0
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "a.agampapermart@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "aagampapermart@gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "a.agampapermart@gmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 24.5,
+      "variance": 0.5
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "myra.mahto@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "myramahto@gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "myra.mahto@gmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 19.5,
+      "variance": 0.5
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "maneshkale.mk@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "maneshkale_mk@gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "maneshkale.mk@gmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 23,
+      "variance": 0
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "mohan.verma2010@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "mohan_verma2010@gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "mohan.verma2010@gmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 25,
+      "variance": 0
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "arora.yatin01@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "arorayatin01@gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "arora.yatin01@gmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 22.5,
+      "variance": 0.5
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "khabiyalavesh+1@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "khabiyalavesh1@gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "khabiyalavesh+1@gmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 24.5,
+      "variance": 0.5
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "d.eepakgmnit@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "deepakg.mnit@gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "d.eepakgmnit@gmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 22,
+      "variance": 0
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "vishal.soni332@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "vishalsoni332@gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "vishal.soni332@gmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 23.5,
+      "variance": 0.5
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "bankim.9.507@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "bankim950.7@gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "bankim.9.507@gmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 21.5,
+      "variance": 0.5
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "vikaskumartiwari16@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "vikaskumartiwari@16gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "vikaskumartiwari16@gmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 28,
+      "variance": 0
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "satish-patel27@yahoo.com",
+          "c": 1
+        },
+        {
+          "v": "satish_patel27@yahoo.com",
+          "c": 1
+        }
+      ],
+      "value": "satish-patel27@yahoo.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 24,
+      "variance": 0
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "er.var.sha.chawla@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "er.varsha.chawla@gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "er.var.sha.chawla@gmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 26.5,
+      "variance": 0.5
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "yb1972.yogesh@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "yb1972yogesh@gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "yb1972.yogesh@gmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 22.5,
+      "variance": 0.5
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "harish.lnmiit@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "harishlnmiit@gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "harish.lnmiit@gmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 22.5,
+      "variance": 0.5
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "uttam.hoode@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "uttamhoode@gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "uttam.hoode@gmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 20.5,
+      "variance": 0.5
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "ghasita.007@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "ghasita007@gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "ghasita.007@gmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 20.5,
+      "variance": 0.5
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "nitin.guptas@yahoo.com",
+          "c": 1
+        },
+        {
+          "v": "nitin_guptas@yahoo.com",
+          "c": 1
+        }
+      ],
+      "value": "nitin.guptas@yahoo.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 22,
+      "variance": 0
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "ankur.jaitly@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "ankurjaitly@gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "ankur.jaitly@gmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 21.5,
+      "variance": 0.5
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "himanshu.123@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "himanshu123@gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "himanshu.123@gmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 21.5,
+      "variance": 0.5
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "ashisha.350@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "ashisha350@gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "ashisha.350@gmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 20.5,
+      "variance": 0.5
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "ambika.avmm@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "ambikaavmm@gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "ambika.avmm@gmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 20.5,
+      "variance": 0.5
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "mimansa.baghel25@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "mimansabaghel25@gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "mimansa.baghel25@gmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 25.5,
+      "variance": 0.5
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "sam9.70504@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "sam97050.4@gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "sam9.70504@gmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 20,
+      "variance": 0
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "ganesh.sep4@yahoo.com",
+          "c": 1
+        },
+        {
+          "v": "ganesh_sep4@yahoo.com",
+          "c": 1
+        }
+      ],
+      "value": "ganesh.sep4@yahoo.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 21,
+      "variance": 0
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "sonaljain.com@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "sonaljainc.om@gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "sonaljain.com@gmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 23,
+      "variance": 0
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "rajdeep.r23@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "rajdeepr23@gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "rajdeep.r23@gmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 20.5,
+      "variance": 0.5
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "suresh.samy.sp.50@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "suresh.samy.sp50@gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "suresh.samy.sp.50@gmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 26.5,
+      "variance": 0.5
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "prenika-anand@yahoo.co.in",
+          "c": 1
+        },
+        {
+          "v": "prenika_anand@yahoo.co.in",
+          "c": 1
+        }
+      ],
+      "value": "prenika-anand@yahoo.co.in",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 25,
+      "variance": 0
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "pushpesht16@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "pushpesht1@6gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "pushpesht16@gmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 21,
+      "variance": 0
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "sukhdwinders@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "sukhdwinders@gmail.com ",
+          "c": 1
+        }
+      ],
+      "value": "sukhdwinders@gmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 22.5,
+      "variance": 0.5
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "aarohi.stuff@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "aarohistuff@gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "aarohi.stuff@gmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 21.5,
+      "variance": 0.5
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "bhaskar.kedari123@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "bhaskarkedari123@gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "bhaskar.kedari123@gmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 26.5,
+      "variance": 0.5
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "sunnie.ahuja@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "sunnieahuja@gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "sunnie.ahuja@gmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 21.5,
+      "variance": 0.5
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "u.kishore988@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "ukishore988@gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "u.kishore988@gmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 21.5,
+      "variance": 0.5
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "bhagwat.goel@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "bhagwatgoel@gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "bhagwat.goel@gmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 21.5,
+      "variance": 0.5
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "-bc5851476@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "bc5851476@gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "-bc5851476@gmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 19.5,
+      "variance": 0.5
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "meena-rangari@hotmail.com",
+          "c": 1
+        },
+        {
+          "v": "meena_rangari@hotmail.com",
+          "c": 1
+        }
+      ],
+      "value": "meena-rangari@hotmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 25,
+      "variance": 0
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "anitha_d@yahoo.co.in",
+          "c": 1
+        },
+        {
+          "v": "anithad@yahoo.co.in",
+          "c": 1
+        }
+      ],
+      "value": "anitha_d@yahoo.co.in",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 19.5,
+      "variance": 0.5
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "ritika_gupta@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "ritikagupta@gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "ritika_gupta@gmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 21.5,
+      "variance": 0.5
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "amit.gnn1@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "amitgnn1@gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "amit.gnn1@gmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 18.5,
+      "variance": 0.5
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "vi.kassengar@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "vik.assengar@gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "vi.kassengar@gmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 22,
+      "variance": 0
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "sonugupta.sg910@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "sonuguptasg.910@gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "sonugupta.sg910@gmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 25,
+      "variance": 0
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "kamal.bahl10@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "kamalbahl.10@gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "kamal.bahl10@gmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 22,
+      "variance": 0
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "30mihir.shah@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "30mihirshah@gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "30mihir.shah@gmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 21.5,
+      "variance": 0.5
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "kapoor.deepak20@yahoo.in",
+          "c": 1
+        },
+        {
+          "v": "kapoordeepak20@yahoo.in",
+          "c": 1
+        }
+      ],
+      "value": "kapoor.deepak20@yahoo.in",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 23.5,
+      "variance": 0.5
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "ankur.porov@yahoo.com",
+          "c": 1
+        },
+        {
+          "v": "ankurporov@yahoo.com",
+          "c": 1
+        }
+      ],
+      "value": "ankur.porov@yahoo.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 20.5,
+      "variance": 0.5
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "tomanoj.jain@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "tomanojjain@gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "tomanoj.jain@gmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 21.5,
+      "variance": 0.5
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "aror.abhuvan@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "arora.bhuvan@gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "aror.abhuvan@gmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 22,
+      "variance": 0
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "rathnasai91@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "rathnasai@91gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "rathnasai91@gmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 21,
+      "variance": 0
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "otrbest.9@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "otrbest9@gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "otrbest.9@gmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 18.5,
+      "variance": 0.5
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "vivek.somani2007@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "viveksomani2007@gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "vivek.somani2007@gmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 25.5,
+      "variance": 0.5
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "n.agarajg9999@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "nagarajg9999@gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "n.agarajg9999@gmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 22.5,
+      "variance": 0.5
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "krishna.550064@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "krishna550064@gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "krishna.550064@gmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 23.5,
+      "variance": 0.5
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "ramesh555.rk65@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "ramesh555rk65@gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "ramesh555.rk65@gmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 23.5,
+      "variance": 0.5
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "sabnani.cp@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "sabnanicp@gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "sabnani.cp@gmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 19.5,
+      "variance": 0.5
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "gajendraprasad.prasad58@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "gajendraprasadprasad58@gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "gajendraprasad.prasad58@gmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 32.5,
+      "variance": 0.5
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "akash.verma11180@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "akashverma.11180@gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "akash.verma11180@gmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 26,
+      "variance": 0
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "pardeepsingh1888@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "pardeepsingh@1888gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "pardeepsingh1888@gmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 26,
+      "variance": 0
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "vishal.chavan639@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "vishalchavan.639@gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "vishal.chavan639@gmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 26,
+      "variance": 0
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "nakul.kaushik11@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "nakulkaushik11@gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "nakul.kaushik11@gmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 24.5,
+      "variance": 0.5
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "guptarajeev.6166@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "guptarajeev6166@gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "guptarajeev.6166@gmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 25.5,
+      "variance": 0.5
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "naveen.ghandhi@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "naveenghandhi@gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "naveen.ghandhi@gmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 23.5,
+      "variance": 0.5
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "mario.praveen@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "mariopraveen@gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "mario.praveen@gmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 22.5,
+      "variance": 0.5
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "jawaharlals85@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "jawaharlals@85gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "jawaharlals85@gmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 23,
+      "variance": 0
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "vishal_khaitan2001@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "vishalkhaitan2001@gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "vishal_khaitan2001@gmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 27.5,
+      "variance": 0.5
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "arjunkarande.1@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "arjunkarande1@gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "arjunkarande.1@gmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 23.5,
+      "variance": 0.5
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "medical.sadanand@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "medicalsadanand@gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "medical.sadanand@gmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 25.5,
+      "variance": 0.5
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "purushottam9.gs@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "purushottam9gs@gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "purushottam9.gs@gmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 24.5,
+      "variance": 0.5
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "yarapava.n+1mg@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "yarapavan+1mg@gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "yarapava.n+1mg@gmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 23.5,
+      "variance": 0.5
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "vikashgaya9@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "vikashgaya@9gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "vikashgaya9@gmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 21,
+      "variance": 0
+    },
+    {
+      "edit": true,
+      "choices": [
+        {
+          "v": "antriksh.devgan@gmail.com",
+          "c": 1
+        },
+        {
+          "v": "antrikshdevgan@gmail.com",
+          "c": 1
+        }
+      ],
+      "value": "antriksh.devgan@gmail.com",
+      "size": 2,
+      "rowCount": 2,
+      "avg": 24.5,
+      "variance": 0.5
+    }
+  ]
+}
