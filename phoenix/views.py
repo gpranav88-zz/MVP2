@@ -15,7 +15,6 @@ def index(request):
 def run_rule():
     pass
 
-
 def check_duplicate_email(request):
     new_email = request.GET.get('email', '').lower()
     with open('./phoenix/data/email_cluster.json') as data_file:
