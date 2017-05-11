@@ -1,0 +1,23 @@
+{% extends 'phoenix/base.html' %}
+{% load bootstrap3 %}
+
+{% block title %}
+    Phoenix
+{% endblock %}
+
+{% block content %}
+
+    <div class="row">
+        <div class="btn-group">
+            <button type="button" class="btn btn-default  dropdown-toggle" data-toggle="dropdown">Choose Rules<span class="caret"></span></button>
+            <ul class="dropdown-menu" role="menu">
+            {% if rules_list %}
+                {% for rule in rules_list %}
+                    <li><a href="">{{ rule.name }}</a></li>
+                {% endfor %}
+            {% endif %}
+            </ul>
+        </div>
+    </div>
+
+{% endblock %}
