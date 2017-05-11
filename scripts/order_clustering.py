@@ -43,26 +43,31 @@ def generate_data():
     return data
 
 
-def plot_graph(data, plotId, title, posX, posY):
+def plot_graph(data, plotId, title, posX, posY, xAxisLabel, yAxisLabel):
     npData = np.array(data, dtype=np.float)
     y_pred = KMeans(n_clusters=10, random_state=random_state).fit_predict(npData)
     plt.subplot(plotId)
     plt.scatter(npData[:, posX], npData[:, posY], c=y_pred)
     plt.title(title)
+    plt.xlabel(xAxisLabel)
+    plt.ylabel(yAxisLabel)
+    plt.subplots_adjust(hspace=.5)
 
 
 def refund_vs_total_order(data):
     graph_data = copy.deepcopy(data)
     # Removing email from the data for plotting
     graph_data = [temp[:-1] for temp in graph_data]
-    plot_graph(graph_data, 221, "Refund vs Total Order Count", 0, 1)
+    plot_graph(graph_data, 221, "Total vs Refunded Order Count", 0, 1, 'Total Order Count',
+               'Refunded Order Count')
 
 
 def cancelled_vs_total_order(data):
     graph_data = copy.deepcopy(data)
     # Removing email from the data for plotting
     graph_data = [temp[:-1] for temp in graph_data]
-    plot_graph(graph_data, 223, "Cancelled vs Total Order Count", 0, 2)
+    plot_graph(graph_data, 223, "Total vs Cancelled Order Count", 0, 2, 'Total Order Count',
+               'Cancelled Order Count')
 
 
 def refund_vs_cancel_percent_graph(data):
@@ -78,7 +83,8 @@ def refund_vs_cancel_percent_graph(data):
             temp[2] = temp[2]*100 / temp[0]
             temp_graph_data.append(temp)
 
-    plot_graph(temp_graph_data, 222, "Refund vs Cancelled Order Percentage", 1, 2)
+    plot_graph(temp_graph_data, 222, "Cancelled vs Refunded Order Percentage", 1, 2,
+               'Cancelled Order Percentage', 'Refunded Order Percentage')
 
 
 data = generate_data()
