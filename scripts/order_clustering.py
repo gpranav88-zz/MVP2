@@ -127,6 +127,7 @@ def main():
     yield from refund_vs_cancel_percent_graph(data)
     yield from refund_vs_total_order(data)
     yield from cancelled_vs_total_order(data)
+    pass
 
 if __name__ == "__main__":
     loop = asyncio.get_event_loop()
