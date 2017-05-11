@@ -2,7 +2,7 @@ from django.template import loader
 from django.http import HttpResponse, JsonResponse
 import json
 import difflib
-from .models import Signal, Rule, Trigger, Action
+from .models import Rule, Trigger, Action
 
 def index(request):
     rules_list = Rule.objects.all()
