@@ -1,3 +1,7 @@
 from django.contrib import admin
 
-# Register your models here.
+from .models import Signal, Rule, Trigger
+
+admin.site.register(Signal)
+admin.site.register(Rule)
+admin.site.register(Trigger)
