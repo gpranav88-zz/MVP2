@@ -55,14 +55,14 @@ def refund_vs_total_order(data):
     graph_data = copy.deepcopy(data)
     # Removing email from the data for plotting
     graph_data = [temp[:-1] for temp in graph_data]
-    plot_graph(graph_data, 221, "Refund vs Total", 0, 1)
+    plot_graph(graph_data, 221, "Refund vs Total Order Count", 0, 1)
 
 
 def cancelled_vs_total_order(data):
     graph_data = copy.deepcopy(data)
     # Removing email from the data for plotting
     graph_data = [temp[:-1] for temp in graph_data]
-    plot_graph(graph_data, 223, "Cancelled vs Total", 0, 2)
+    plot_graph(graph_data, 223, "Cancelled vs Total Order Count", 0, 2)
 
 
 def refund_vs_cancel_percent_graph(data):
@@ -70,11 +70,15 @@ def refund_vs_cancel_percent_graph(data):
     # Removing email from the data for plotting
     graph_data = [temp[:-1] for temp in graph_data]
     # Calculating percentage cancelled and Refund
+    temp_graph_data = []
     for temp in graph_data:
-        temp[1] = temp[1]*100/temp[0]
-        temp[2] = temp[2]*100 / temp[0]
+        # Consider only order count greater than 5
+        if temp[0] > 5:
+            temp[1] = temp[1]*100/temp[0]
+            temp[2] = temp[2]*100 / temp[0]
+            temp_graph_data.append(temp)
 
-    plot_graph(graph_data, 222, "Refund vs Cancelled", 1, 2)
+    plot_graph(temp_graph_data, 222, "Refund vs Cancelled Order Percentage", 1, 2)
 
 
 data = generate_data()
