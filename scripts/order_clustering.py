@@ -118,15 +118,15 @@ def refund_vs_cancel_percent_graph(data):
             temp[2] = temp[2] * 100 / temp[0]
             temp_graph_data.append(temp)
 
-    yield from plot_graph(temp_graph_data, 222, "Cancelled vs Refunded Order Percentage", 1, 2,
+    yield from plot_graph(temp_graph_data, 111, "Cancelled vs Refunded Order Percentage", 1, 2,
                'Cancelled Order Percentage', 'Refunded Order Percentage')
 
 
 def main():
     data = generate_data()
-    # yield from refund_vs_cancel_percent_graph(data)
+    yield from refund_vs_cancel_percent_graph(data)
     # yield from refund_vs_total_order(data)
-    yield from cancelled_vs_total_order(data)
+    # yield from cancelled_vs_total_order(data)
     pass
 
 if __name__ == "__main__":

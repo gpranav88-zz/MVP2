@@ -142,13 +142,13 @@ def plot_graph(data, plotId, title, posX, posY, xAxisLabel, yAxisLabel):
     get_email_cluster_mapping(graph_data, scatter_data, y_pred, title)
 
 
-data = generate_data()
-plot_graph(data, 221,
-           "Greater vs Less than 10 % margin order count", 0, 1, "Greater than 10 % margin", "Less than 10 % margin")
+# data = generate_data()
+# plot_graph(data, 221,
+#            "Greater vs Less than 10 % margin order count", 0, 1, "Greater than 10 % margin", "Less than 10 % margin")
 
 data_after_jan = generate_data_after_jan()
-plot_graph(data_after_jan, 223,
-           "Greater vs Less than 10 % margin order count after January", 0, 1, "Greater than 10 % margin",
+plot_graph(data_after_jan, 111,
+           "Greater vs Less than 10 % margin order count", 0, 1, "Greater than 10 % margin",
            "Less than 10 % margin")
 
 plt.show()

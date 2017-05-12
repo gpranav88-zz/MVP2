@@ -86,7 +86,7 @@ def plot_graph(data, plotId, title, posX, posY, xAxisLabel, yAxisLabel):
     plt.ylabel(yAxisLabel)
     plt.subplots_adjust(hspace=.5)
     plt.show()
-    asyncio.async(get_email_cluster_mapping(graph_data, scatter_data, y_pred, title))
+    # asyncio.async(get_email_cluster_mapping(graph_data, scatter_data, y_pred, title))
 
 
 @coroutine
@@ -99,7 +99,7 @@ def expected_vs_paid_amount_percent_graph(data):
             temp[2] = (((temp[0]-temp[1])/temp[0])*100)
             temp_graph_data.append(temp)
 
-    yield from plot_graph(temp_graph_data, 222, "Amount expected vs Difference Perecentage", 0, 2,
+    yield from plot_graph(temp_graph_data, 111, "Amount expected vs Difference Perecentage", 0, 2,
                'Amount expected', 'Difference Percentage')
 
 
