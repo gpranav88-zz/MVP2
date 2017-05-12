@@ -7,7 +7,7 @@ class Action(models.Model):
     def __str__(self):
         return self.name
 
-class Rule(models.Model):
+class Signal(models.Model):
     SERVICES_CHOICES = (
         ('identity','IDENTITY'),
         ('order', 'ORDER'),
@@ -35,7 +35,7 @@ class Trigger(models.Model):
         ('gt', 'Greater Than Equal To'),
     )
     name = models.CharField(max_length=50, default="None")
-    rules = models.ManyToManyField(Rule)
+    signals = models.ManyToManyField(Signal)
     operation = models.CharField(max_length=10, default='lt', choices=OPERATION_CHOICES)
     threshold_level = models.CharField(max_length=50)
     action_taken = models.ForeignKey(Action, on_delete=models.CASCADE, related_name='triggers')
