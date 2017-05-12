@@ -6,7 +6,7 @@ import copy
 import asyncio
 from asyncio import coroutine
 random_state = 170
-clusterSize = 10
+clusterSize = 20
 
 
 def generate_data():
