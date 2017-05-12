@@ -4,13 +4,15 @@ $(function() {
         var static_media_path = "static/phoenix/";
         var rule_id = $(this).attr("data-id");
         $('#loading-image').show();
-        $('#target').hide();
+        $("#target").attr("src", "/phoenix/static/phoenix/bg.png");
+        $("#target").attr("height", "300px");
+        $("#target").attr("width", "300px");
         var x = setTimeout(function() {
             $('#loading-image').hide();
             $("#target").attr("src", static_media_path + "image" + rule_id + ".png");
             $("#target").attr("height", "80%");
             $("#target").attr("width", "80%");
-        }, Math.floor(Math.random() * 5000) + 2000);
+        }, Math.floor(Math.random() * 1000) + 1000);
         $('#target').show();
         $(".trigger-link").attr("data-signal-id", rule_id);
    });
