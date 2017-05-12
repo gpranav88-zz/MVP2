@@ -49,7 +49,7 @@ def generate_data():
 def write_mapping_to_csv(email_mapping, title):
     title = title.replace(' ', '_')
     for mapping in email_mapping:
-        file_name = title+"cluster_"+str(mapping) + '.csv'
+        file_name = title+"_cluster_"+str(mapping) + '.csv'
         with open(file_name, 'w') as f:
             writer = csv.DictWriter(f, fieldnames=['email', 'hex_code'])
             writer.writeheader()
@@ -124,8 +124,8 @@ def refund_vs_cancel_percent_graph(data):
 
 def main():
     data = generate_data()
-    yield from refund_vs_cancel_percent_graph(data)
-    yield from refund_vs_total_order(data)
+    # yield from refund_vs_cancel_percent_graph(data)
+    # yield from refund_vs_total_order(data)
     yield from cancelled_vs_total_order(data)
     pass
 
