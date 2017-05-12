@@ -21,10 +21,10 @@ def index(request):
     for trigger in triggers_list:
         status = 'deactivated'
         color = '#f82831'
-        if trigger is True:
+        if trigger.status is True:
             status = 'activated'
             color = '#4bec13'
-        all_triggers.append({'id': trigger.id, 'name': trigger.name, 'threshold': '{} {}'.format(operations[trigger.operation], trigger.threshold_level), 'status': status, 'color': color})
+        all_triggers.append({'id': trigger.id, 'name': trigger.name, 'threshold': '{}'.format(trigger.threshold_level), 'status': status, 'color': color})
 
     template = loader.get_template('phoenix/index.html')
     context = {
