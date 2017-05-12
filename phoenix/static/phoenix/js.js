@@ -14,4 +14,10 @@ $(function() {
         $('#target').show();
         $(".trigger-link").attr("data-signal-id", rule_id);
    });
+    var test_dump = '{WLF_MMB_11,LCC_DEL_38,WLF_MMB_04,WLF_MMB_10,CBP_AHM_02,MAG_CHN_10,MAM_HYD_17}';
+
+    $(".csv-data").on('click', '#target', function(e) {
+        e.preventDefault();
+        $('.csv-dump').text(test_dump);
+   });
 });

@@ -2,3 +2,6 @@ img{border:0;}
 #loading-image {
 	display: none;
 }
+.csv-margin {
+	margin-top: 5%;
+}
