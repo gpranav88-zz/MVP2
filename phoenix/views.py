@@ -2,7 +2,7 @@ from django.template import loader
 from django.http import HttpResponse, JsonResponse
 import json
 import difflib
-from .models import Rule, Trigger, Action
+from .models import Signal, Trigger, Action
 
 operations = {
     'lt': '<',
@@ -13,7 +13,7 @@ operations = {
 }
 
 def index(request):
-    rules_list = Rule.objects.all()
+    signals_list = Signal.objects.all()
 
     triggers_list = Trigger.objects.all()
     all_triggers = []
@@ -28,7 +28,7 @@ def index(request):
 
     template = loader.get_template('phoenix/index.html')
     context = {
-        'rules_list': rules_list,
+        'signals_list': signals_list,
         'triggers_list': all_triggers,
     }
     return HttpResponse(template.render(context, request))
