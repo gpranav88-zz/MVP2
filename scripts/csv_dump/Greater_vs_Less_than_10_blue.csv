@@ -1,5 +1,5 @@
-vendor_id,hex_code
-NME_CHN_10,#30678d
-MMB_AHM_03,#30678d
-CCH_HYD_06,#30678d
-NME_CHN_12,#30678d
+vendor_id,hex_code, amount_paid
+NME_CHN_10,#30678d, 434560.88
+MMB_AHM_03,#30678d, 1102.8
+CCH_HYD_06,#30678d, 64684.63
+NME_CHN_12,#30678d, 289.52
