@@ -14,10 +14,14 @@ class Signal(models.Model):
     )
     ATTRIBUTES_CHOICES = (
         ('email','User Email'),
+        ('email_similarity','User Email Similarity'),
         ('cancelled_order', 'Cancelled Orders'),
         ('refund_order', 'Refund Orders'),
         ('order_count', 'Total Orders'),
-        ('margin', 'Margin'),
+        ('low_margin', 'Low Margin'),
+        ('high_margin', 'High Margin'),
+        ('amount', 'Amount'),
+        ('amount_paid', 'Amount Paid'),
     )
     name = models.CharField(max_length=50, default="None")
     services = models.CharField(max_length=10, default='identity', choices=SERVICES_CHOICES)
@@ -36,9 +40,7 @@ class Trigger(models.Model):
     )
     name = models.CharField(max_length=50, default="None")
     signals = models.ManyToManyField(Signal)
-    operation = models.CharField(max_length=10, default='lt', choices=OPERATION_CHOICES)
     threshold_level = models.CharField(max_length=50)
-    action_taken = models.ForeignKey(Action, on_delete=models.CASCADE, related_name='triggers')
     status = models.BooleanField(default=False)
 
     def __str__(self):
