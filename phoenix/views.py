@@ -4,11 +4,32 @@ import json
 import difflib
 from .models import Rule, Trigger, Action
 
+operations = {
+    'lt': '<',
+    'lte': '<=',
+    'eq': '=',
+    'gt': '>',
+    'gte': '=>'
+}
+
 def index(request):
     rules_list = Rule.objects.all()
+
+    triggers_list = Trigger.objects.all()
+    all_triggers = []
+
+    for trigger in triggers_list:
+        status = 'deactivated'
+        color = '#f82831'
+        if trigger is True:
+            status = 'activated'
+            color = '#4bec13'
+        all_triggers.append({'id': trigger.id, 'name': trigger.name, 'threshold': '{} {}'.format(operations[trigger.operation], trigger.threshold_level), 'status': status, 'color': color})
+
     template = loader.get_template('phoenix/index.html')
     context = {
         'rules_list': rules_list,
+        'triggers_list': all_triggers,
     }
     return HttpResponse(template.render(context, request))
 

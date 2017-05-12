@@ -17,6 +17,7 @@
                         <th>Services</th>
                         <th>Attributes</th>
                         <th>Fetch</th>
+                        <th>Trigger</th>
                     </tr>
                 </thead>
                 <tbody>
@@ -27,6 +28,7 @@
                                 <td class="services-list">{{rule.services}}</td>
                                 <td class="attributes-list">{{rule.attributes}}</td>
                                 <td><a href="#" data-id="{{rule.id}}" class="crunch-trigger">Crunch Data</a></td>
+                                <td><a href="http://127.0.0.1:8001/admin/phoenix/trigger/add/">Add Trigger</a></td>
                             </tr>
                         {% endfor %}
                     {% endif %}
@@ -34,10 +36,44 @@
             </table>
         </div>
     </div>
+
     <div class="row">
         <div class="col-xs-12">
-            <img id="loading-image" src="static/phoenix/loading.gif" alt="Loading..."/>
+            {% for trigger in triggers_list %}
+                <p>{{trigger.rules.id}}</p>
+            {% endfor %}
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-xs-12">
+            <img id="loading-image" src="/phoenix/static/phoenix/loading.gif" alt="Loading..."/>
             <img id="target" src="" />
+        </div>
+    </div>
+    <div class="row trigger-link" data-rule-id="0">
+        <div class="col-xs-12 meta-info">
+            <table class="table">
+                <caption>Triggers Info</caption>
+                <thead>
+                    <tr>
+                        <th>Trigger</th>
+                        <th>Threshold</th>
+                        <th>Status</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {% if triggers_list %}
+                        {% for trigger in triggers_list %}
+                            <tr>
+                                <td>{{trigger.name}}</td>
+                                <td>{{trigger.threshold}}</td>
+                                <td style="color:{{trigger.color}};">{{trigger.status}}</td>
+                            </tr>
+                        {% endfor %}
+                    {% endif %}
+                </tbody>
+            </table>
         </div>
     </div>
 
