@@ -60,6 +60,7 @@
                         <th>Trigger</th>
                         <th>Threshold</th>
                         <th>Status</th>
+                        <th>Change Status</th>
                     </tr>
                 </thead>
                 <tbody>
@@ -69,6 +70,7 @@
                                 <td>{{trigger.name}}</td>
                                 <td>{{trigger.threshold}}</td>
                                 <td style="color:{{trigger.color}};">{{trigger.status}}</td>
+                                <td><a href="http://127.0.0.1:8001/admin/phoenix/trigger/{{trigger.id}}/change/">Change Status</a></td>
                             </tr>
                         {% endfor %}
                     {% endif %}
