@@ -5,7 +5,6 @@ import csv
 import copy
 import asyncio
 from asyncio import coroutine
-n_samples = 1500
 random_state = 170
 clusterSize = 10
 
@@ -28,14 +27,14 @@ def generate_data():
     # First element is order amount to be paid
     # Second element is amount paid by customer
     # Third element is order id
-    for order in order_price_dict:
-        try:
-            temp_data = [float(order_price_dict[order])]
-            temp_data.append(float(order_price_dict.get(order, 0)))
-        except:
-            pass
-        temp_data.append(order)
-        data.append(temp_data)
+    for order in price_paid_dict:
+        if order in order_price_dict:
+            if float(order_price_dict[order]) > 100:
+                temp_data = [float(order_price_dict[order])]
+                temp_data.append(float(price_paid_dict[order]))
+                temp_data.append(0)
+                temp_data.append(order)
+                data.append(temp_data)
     return data
 
 
@@ -57,8 +56,8 @@ def get_email_cluster_mapping(data, scatter_data, y_pred, title):
     for d in data:
         for i in range(0, clusterSize):
             if y_pred[data.index(d)] == i:
-                map = {'email': '', 'hex_code': ''}
-                map['email'] = d[-1]
+                map = {'order_id': '', 'hex_code': ''}
+                map['order_id'] = d[-1]
                 if data.index(d) < len(scatter_data._facecolors):
                     try:
                         if len(scatter_data._facecolors[data.index(d)]) >= 3:
@@ -87,7 +86,7 @@ def plot_graph(data, plotId, title, posX, posY, xAxisLabel, yAxisLabel):
     plt.ylabel(yAxisLabel)
     plt.subplots_adjust(hspace=.5)
     plt.show()
-    # asyncio.async(get_email_cluster_mapping(graph_data, scatter_data, y_pred, title))
+    asyncio.async(get_email_cluster_mapping(graph_data, scatter_data, y_pred, title))
 
 
 @coroutine
@@ -96,11 +95,12 @@ def expected_vs_paid_amount_percent_graph(data):
     # Calculating percentage cancelled and Refund
     temp_graph_data = []
     for temp in graph_data:
-        temp.append(((temp[0]-temp[1])/temp[0])*100)
-        temp_graph_data.append(temp)
+        if (((temp[0]-temp[1])/temp[0])*100) >= 0:
+            temp[2] = (((temp[0]-temp[1])/temp[0])*100)
+            temp_graph_data.append(temp)
 
-    yield from plot_graph(temp_graph_data, 222, "Amount expected vs Paid", 0, 1,
-               'Amount expected', 'Amount Paid')
+    yield from plot_graph(temp_graph_data, 222, "Amount expected vs Difference Perecentage", 0, 2,
+               'Amount expected', 'Difference Percentage')
 
 
 def main():
