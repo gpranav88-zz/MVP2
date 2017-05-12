@@ -1,9 +1,12 @@
 $(function() {
+    var parent_r_id = "0";
     $(".meta-info").on('click', '.crunch-trigger', function(e) {
         e.preventDefault();
         var static_media_path = "static/phoenix/";
         var rule_id = $(this).attr("data-id");
+        parent_r_id = rule_id;
         $('#loading-image').show();
+        $('.csv-margin').hide();
         $("#target").attr("src", "/phoenix/static/phoenix/bg.png");
         $("#target").attr("height", "300px");
         $("#target").attr("width", "300px");
@@ -20,6 +23,9 @@ $(function() {
 
     $(".csv-data").on('click', '#target', function(e) {
         e.preventDefault();
-        $('.csv-dump').text(test_dump);
+        if (parent_r_id == "3") {
+            $('.csv-margin').show();
+            $('.csv-dump').text(test_dump);
+        }
    });
 });
